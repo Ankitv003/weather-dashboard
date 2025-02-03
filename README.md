@@ -45,8 +45,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Install the dependencies:
     ```sh
     npm install
-    # or
-    yarn install
     ```
 
 3. Create a `.env` file in the root directory and add your Meteosource API key:

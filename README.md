@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-Welcome to the Weather Dashboard project! In this project, i have created git
+Welcome to the Weather Dashboard project! In this project, i have created a weather-dashboard app using ReactJS and the Meteosource Weather API.
 
 ## Table of Contents
 
@@ -57,8 +57,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Start the development server:
     ```sh
     npm start
-    # or
-    yarn start
     ```
 
 2. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

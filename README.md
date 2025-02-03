@@ -12,7 +12,7 @@ Welcome to the Weather Dashboard project! In this project, i have created git
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [API Reference](#api-reference)
-
+- [Screenshots](#screenshots)
 
 ## Overview
 
@@ -77,6 +77,10 @@ This project uses the following dependencies:
 This project uses the Meteosource Weather API to fetch weather data. You can find more information and sign up for an API key at the [Meteosource Weather API page](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
 
 
----
+## Screenshots
+
+![Weather-Dashboard Search](<public/screenshots/weather-dashboard-search.png>)
+![Weather-Dashboard Main](<public/screenshots/weather-dashboard-main.png>)
+
 
 
